@@ -22,6 +22,13 @@ In the browser that opened when you started the server, browse to the `nb-slides
 
 ## Notebooks
 
+* [01-intro](http://nbviewer.ipython.org/github/sburns/ipynash/blob/master/01-intro.ipynb)
+* [02-basics](http://nbviewer.ipython.org/github/sburns/ipynash/blob/master/02-basics.ipynb)
+* 03-data (this doesn't render on nbviewer, I've got too many pngs in there :)
+* [04-magic](https://raw.github.com/sburns/ipynash/master/04-magic.ipynb)
+* [05-arch](https://github.com/sburns/ipynash/blob/master/05-arch.ipynb)
+* [06-parallel](http://nbviewer.ipython.org/github/sburns/ipynash/blob/master/06-parallel.ipynb)
+* [07-wrapup](http://nbviewer.ipython.org/github/sburns/ipynash/blob/master/07-wrapup.ipynb)
 
 ## Hat tips
 
